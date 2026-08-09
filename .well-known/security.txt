@@ -1,1 +1,4 @@
+Contact: mailto:jwtsmith.dev@gmail.com
+Preferred-Languages: en
+Canonical: https://jwtsmith.github.io/jwtsmith-portfolio/.well-known/security.txt
 
