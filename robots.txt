@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cybershark-lucky.github.io/sitemap.xml
